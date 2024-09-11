@@ -76,7 +76,7 @@ Before we begin, ensure you have the following:
 1. **Install VS Code Extensions**: Open VS Code, navigate to the Extensions section on the left tab, and install the Python, Pylance, and Jupyter extensions.
 2. **Clone the Repository**: Open the VS Code Terminal and clone the OpenAlgo repository with the command:
 
-<code>git clone https://github.com/marketcalls/openalgo</code>
+<code>git clone https://github.com/anshuwap/openalgo</code>
 
 3. **Install Dependencies**: 
 
